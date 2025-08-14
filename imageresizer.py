@@ -19,5 +19,3 @@ def batch_resize_images(folder_path, output_folder, size):
     print(f"All images resized to {size} and saved to {output_folder}.")
 
 batch_resize_images('C:/Users/chitt/OneDrive/Pictures/Screenshots', 'C:/Users/chitt/Pictures/output_images', (800, 600))
-
-
